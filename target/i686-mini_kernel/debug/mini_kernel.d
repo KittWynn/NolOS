@@ -1,0 +1,1 @@
+Y:\Code\NolOS\target\i686-mini_kernel\debug\mini_kernel: Y:\Code\NolOS\src\allocator.rs Y:\Code\NolOS\src\font.rs Y:\Code\NolOS\src\framebuffer.rs Y:\Code\NolOS\src\gfx_shell.rs Y:\Code\NolOS\src\keyboard.rs Y:\Code\NolOS\src\main.rs Y:\Code\NolOS\src\panic.rs Y:\Code\NolOS\src\vga.rs
