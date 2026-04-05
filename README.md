@@ -42,4 +42,3 @@ This is not an OS project built on top of something. Every pixel drawn, every ke
 ## Notice
 
 This project is unfinished and will likely not be continued in the long run. You're welcome to fork it and continue it yourself, but this page will not receive any more updates.
-```bash
